@@ -1,0 +1,1724 @@
+﻿Log file open, 03/10/18 19:31:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-762630153) SRandInit(-762630153).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.168007
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.10-16.31.46:048][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.10-16.31.46:048][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.10-16.31.46:101][  0]LogInit: Computer: DESKTOP-54LR6J1
+[2018.03.10-16.31.46:101][  0]LogInit: User: Анжелика
+[2018.03.10-16.31.46:101][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.03.10-16.31.46:101][  0]LogInit: High frequency timer resolution =2.143474 MHz
+[2018.03.10-16.31.46:102][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.03.10-16.31.46:102][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.10-16.31.46:102][  0]LogMemory: Process Physical Memory: 274.35 MB used, 274.35 MB peak
+[2018.03.10-16.31.46:102][  0]LogMemory: Process Virtual Memory: 269.21 MB used, 269.21 MB peak
+[2018.03.10-16.31.46:102][  0]LogMemory: Physical Memory: 6768.18 MB used,  1342.75 MB free, 8110.94 MB total
+[2018.03.10-16.31.46:102][  0]LogMemory: Virtual Memory: 678.69 MB used,  1342.75 MB free, 134217728.00 MB total
+[2018.03.10-16.31.46:404][  0]LogInit: Using OS detected language (ru-RU).
+[2018.03.10-16.31.46:404][  0]LogInit: Using OS detected locale (ru-BY).
+[2018.03.10-16.31.46:627][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.03.10-16.31.46:627][  0]LogTextLocalizationManager: No localization for 'ru-BY' exists, so 'en' will be used for the locale.
+[2018.03.10-16.31.47:320][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.10-16.31.49:739][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.10-16.31.49:757][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R9 M375' (Feature Level 11_0)
+[2018.03.10-16.31.49:757][  0]LogD3D11RHI:       2026/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.03.10-16.31.49:764][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2018.03.10-16.31.49:764][  0]LogD3D11RHI:       128/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.10-16.31.49:767][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.10-16.31.49:767][  0]LogD3D11RHI:       0/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.10-16.31.49:767][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.10-16.31.49:777][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.10-16.31.49:777][  0]LogD3D11RHI:     GPU DeviceId: 0x6820 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.10-16.31.49:777][  0]LogWindows: EnumDisplayDevices:
+[2018.03.10-16.31.49:777][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2018.03.10-16.31.49:777][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.03.10-16.31.49:778][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.03.10-16.31.49:778][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.10-16.31.49:778][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R9 M375
+[2018.03.10-16.31.49:778][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.10-16.31.49:778][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.10-16.31.49:778][  0]LogRHI: Texture pool is 1418 MB (70% of 2026 MB)
+[2018.03.10-16.31.49:803][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.10-16.31.49:820][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.03.10-16.31.49:823][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/Shaders/WorkingDirectory/3116/).
+[2018.03.10-16.31.49:824][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Анжелика/AppData/Local/Temp/UnrealShaderWorkingDir/39D2E2EC4298A8619218098AC6001AB5/'.
+[2018.03.10-16.31.49:824][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.10-16.31.55:249][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.10-16.31.55:369][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.10-16.31.55:506][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.10-16.31.55:625][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.10-16.31.55:722][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.10-16.31.55:833][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.10-16.31.55:969][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.10-16.31.56:103][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.10-16.31.56:206][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.10-16.31.56:319][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.10-16.31.56:428][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.10-16.31.56:524][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.10-16.31.56:615][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.10-16.31.56:698][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.10-16.31.56:883][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.10-16.31.56:883][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.10-16.31.56:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.10-16.31.57:046][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.10-16.31.57:256][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.10-16.31.57:305][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.10-16.31.57:387][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.10-16.31.57:473][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.10-16.31.57:559][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.10-16.31.57:698][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.10-16.31.57:699][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.10-16.31.58:554][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.10-16.31.58:824][  0]LogDerivedDataCache: Loaded boot cache 0.27s 78MB C:/Users/Анжелика/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.10-16.31.58:825][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Анжелика/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.10-16.31.58:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.10-16.31.58:825][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.10-16.31.58:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.10-16.31.58:825][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.10-16.31.58:851][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.10-16.31.58:863][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Анжелика/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.10-16.31.58:878][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.10-16.31.58:878][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.10-16.31.58:881][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.10-16.31.58:881][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.10-16.31.59:725][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.10-16.32.00:515][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.10-16.32.00:593][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.10-16.32.00:594][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.10-16.32.00:594][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.10-16.32.00:594][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.10-16.32.00:594][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.10-16.32.00:713][  0]LogNetVersion: MyProject2 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4016851739)
+[2018.03.10-16.32.01:219][  0]LogAssetRegistry: FAssetRegistry took 0.0313 seconds to start up
+[2018.03.10-16.32.02:827][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/2657c409.bin
+[2018.03.10-16.32.02:835][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-16.32.03:335][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-16.32.03:836][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-16.32.04:336][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-16.32.04:837][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-16.32.05:337][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-16.32.05:838][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-16.32.06:339][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-16.32.06:839][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-16.32.07:340][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-16.32.07:841][  0]LogFileManager: Error: Error moving file '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Intermediate/AssetRegistryCache/866581fd.bin'.
+[2018.03.10-16.32.07:890][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 5.143303 seconds
+[2018.03.10-16.32.07:899][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.03.10-16.32.07:899][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.03.10-16.32.07:899][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.10-16.32.07:989][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.10-16.32.14:178][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.10-16.32.14:253][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.10-16.32.15:543][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.10-16.32.16:349][  0]SourceControl: Source control is disabled
+[2018.03.10-16.32.16:349][  0]SourceControl: Source control is disabled
+[2018.03.10-16.32.16:447][  0]SourceControl: Source control is disabled
+[2018.03.10-16.32.16:545][  0]SourceControl: Source control is disabled
+[2018.03.10-16.32.18:061][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.10-16.32.18:571][  0]LogOcInput: OculusInput pre-init called
+[2018.03.10-16.32.19:094][  0]LogEngine: Initializing Engine...
+[2018.03.10-16.32.19:097][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.10-16.32.19:876][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.10-16.32.19:876][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.10-16.32.20:142][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.10-16.32.20:150][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-16.32.20:197][  0]LogInit: FAudioDevice initialized.
+[2018.03.10-16.32.20:218][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/Анжелика/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.10-16.32.20:259][  0]LogInit: Texture streaming: Enabled
+[2018.03.10-16.32.20:650][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.10-16.32.21:158][  0]LogInit: Transaction tracking system initialized
+[2018.03.10-16.32.22:027][  0]BlueprintLog: New page: Editor Load
+[2018.03.10-16.32.24:263][  0]LocalizationService: Localization service is disabled
+[2018.03.10-16.32.26:115][  0]LogConsoleResponse: Display: 
+[2018.03.10-16.32.27:353][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Анжелика/Documents/Game/MyProject2/Project/Content/' took 0.02s
+[2018.03.10-16.32.27:353][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.10-16.32.27:353][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.10-16.32.27:353][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.10-16.32.30:615][  0]SourceControl: Source control is disabled
+[2018.03.10-16.32.30:615][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.10-16.32.30:616][  0]LightingResults: New page: Lighting Build
+[2018.03.10-16.32.30:692][  0]MapCheck: New page: Map Check
+[2018.03.10-16.32.30:692][  0]LightingResults: New page: Lighting Build
+[2018.03.10-16.32.34:329][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.10-16.32.34:667][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.10-16.32.34:719][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.10-16.32.34:809][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.744ms to complete.
+[2018.03.10-16.32.34:809][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.194
+[2018.03.10-16.32.35:993][  0]LogCollectionManager: Loaded 0 collections in 0.010824 seconds
+[2018.03.10-16.32.36:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Collections/' took 0.01s
+[2018.03.10-16.32.36:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Анжелика/Documents/Game/MyProject2/Project/Content/Developers/Анжелика/Collections/' took 0.01s
+[2018.03.10-16.32.36:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Анжелика/Documents/Game/MyProject2/Project/Content/Collections/' took 0.01s
+[2018.03.10-16.32.36:314][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.10-16.32.36:364][  0]LogContentBrowser: Native class hierarchy populated in 0.0297 seconds. Added 2363 classes and 519 folders.
+[2018.03.10-16.32.36:624][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.10-16.32.37:805][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.03.10-16.32.38:076][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.03.10-16.32.39:698][  0]LogSlate: Took 0.001021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.10-16.32.39:702][  0]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.10-16.32.39:735][  0]LogSlate: Took 0.016522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.10-16.32.40:628][  0]LogRenderer: Reallocating scene render targets to support 964x472 Format 10 NumSamples 1 (Frame:1).
+[2018.03.10-16.32.42:409][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.10-16.32.42:409][  0]LogLoad: (Engine Initialization) Total time: 65.17 seconds
+[2018.03.10-16.32.42:409][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.10-16.32.42:409][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.10-16.32.42:768][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.10-16.32.42:799][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.10-16.32.43:427][  2]LogAssetRegistry: Asset discovery search completed in 42.2302 seconds
+[2018.03.10-16.32.43:431][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.03.10-16.32.43:432][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000572 seconds (updated 0 objects)
+[2018.03.10-16.41.11:442][565]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.10-16.41.11:589][565]LogAIModule: Creating AISystem for world room
+[2018.03.10-16.41.11:631][565]Cmd: MAP LOAD FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.10-16.41.11:632][565]LightingResults: New page: Lighting Build
+[2018.03.10-16.41.11:633][565]LoadErrors: New page: Loading map: room.umap
+[2018.03.10-16.41.11:634][565]MapCheck: New page: Map Check
+[2018.03.10-16.41.11:635][565]LightingResults: New page: Lighting Build
+[2018.03.10-16.41.11:735][565]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.10-16.41.11:799][565]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.10-16.41.11:937][565]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 137.807ms to complete.
+[2018.03.10-16.41.11:937][565]LogFileHelpers: Loading map 'room' took 0.307
+[2018.03.10-16.41.45:240][862]Cmd: EDCALLBACK SURFPROPS
+[2018.03.10-16.43.26:798][365]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.10-16.43.26:799][365]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.10-16.49.19:046][633]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.10-16.49.19:047][633]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.10-16.49.56:229][ 98]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.03.10-16.49.58:415][175]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-16.49.58:630][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-16.49.58:640][175]PIE: New page: PIE session: room (Mar 10, 2018, 10:49:58 PM)
+[2018.03.10-16.49.58:641][175]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.10-16.49.58:670][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029035s)
+[2018.03.10-16.49.58:671][175]LogAIModule: Creating AISystem for world room
+[2018.03.10-16.49.58:672][175]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2018.03.10-16.49.58:673][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.031556s)
+[2018.03.10-16.49.58:707][175]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-16.49.58:725][175]LogInit: FAudioDevice initialized.
+[2018.03.10-16.49.58:822][175]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.10-16.49.58:894][175]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.10-19.49.58
+[2018.03.10-16.49.58:913][175]LogWorld: Bringing up level for play took: 0.019713
+[2018.03.10-16.49.59:041][175]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.03.10-16.49.59:069][175]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room -0.214
+[2018.03.10-16.50.17:498][847]Cmd: DELETE
+[2018.03.10-16.50.17:498][847]Cmd: ACTOR DELETE
+[2018.03.10-16.50.17:501][847]LogEditorActor: Deleted Actor: Brush
+[2018.03.10-16.50.17:595][847]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2018.03.10-16.50.24:973][130]LogEditorViewport: Clicking on Actor (LMB): bitl_C (bitl)
+[2018.03.10-16.51.13:818][524]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.10-16.51.23:556][552]LogSavePackage: Save=253.28ms
+[2018.03.10-16.51.23:556][552]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room_Auto1FEBE8C2040DC911528EDF49479AFA074.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto1.umap'
+[2018.03.10-16.51.23:563][552]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto1.umap
+[2018.03.10-16.51.23:566][552]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cockroaches/room' took 0.367
+[2018.03.10-16.51.23:566][552]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.367
+[2018.03.10-16.52.10:041][451]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-16.52.10:079][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-16.52.10:079][451]PIE: New page: PIE session: room (Mar 10, 2018, 10:52:10 PM)
+[2018.03.10-16.52.10:080][451]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.10-16.52.10:098][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017842s)
+[2018.03.10-16.52.10:099][451]LogAIModule: Creating AISystem for world room
+[2018.03.10-16.52.10:099][451]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2018.03.10-16.52.10:100][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.019911s)
+[2018.03.10-16.52.10:129][451]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-16.52.10:151][451]LogInit: FAudioDevice initialized.
+[2018.03.10-16.52.10:189][451]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.10-16.52.10:191][451]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.10-19.52.10
+[2018.03.10-16.52.10:192][451]LogWorld: Bringing up level for play took: 0.001847
+[2018.03.10-16.52.10:195][451]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 0.912
+[2018.03.10-16.52.28:184][112]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-16.52.28:222][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-16.52.28:222][112]PIE: New page: PIE session: room (Mar 10, 2018, 10:52:28 PM)
+[2018.03.10-16.52.28:222][112]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.10-16.52.28:241][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019307s)
+[2018.03.10-16.52.28:242][112]LogAIModule: Creating AISystem for world room
+[2018.03.10-16.52.28:243][112]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2018.03.10-16.52.28:243][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.021178s)
+[2018.03.10-16.52.28:269][112]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-16.52.28:290][112]LogInit: FAudioDevice initialized.
+[2018.03.10-16.52.28:333][112]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.10-16.52.28:336][112]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.10-19.52.28
+[2018.03.10-16.52.28:336][112]LogWorld: Bringing up level for play took: 0.001644
+[2018.03.10-16.52.28:340][112]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 1.057
+[2018.03.10-16.52.33:459][301]LogEditorViewport: Clicking on Actor (LMB): bitl_C (bitl)
+[2018.03.10-16.52.41:088][547]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-16.52.41:131][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-16.52.41:131][547]PIE: New page: PIE session: room (Mar 10, 2018, 10:52:41 PM)
+[2018.03.10-16.52.41:131][547]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.10-16.52.41:146][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014355s)
+[2018.03.10-16.52.41:147][547]LogAIModule: Creating AISystem for world room
+[2018.03.10-16.52.41:147][547]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2018.03.10-16.52.41:148][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.016207s)
+[2018.03.10-16.52.41:175][547]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-16.52.41:196][547]LogInit: FAudioDevice initialized.
+[2018.03.10-16.52.41:229][547]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.10-16.52.41:231][547]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.10-19.52.41
+[2018.03.10-16.52.41:231][547]LogWorld: Bringing up level for play took: 0.001674
+[2018.03.10-16.52.41:234][547]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room -0.049
+[2018.03.10-16.52.45:600][708]LogEditorViewport: Clicking on Actor (LMB): bitl_C (bitl)
+[2018.03.10-16.52.49:257][835]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-16.52.49:294][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-16.52.49:294][835]PIE: New page: PIE session: room (Mar 10, 2018, 10:52:49 PM)
+[2018.03.10-16.52.49:294][835]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.10-16.52.49:313][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018936s)
+[2018.03.10-16.52.49:314][835]LogAIModule: Creating AISystem for world room
+[2018.03.10-16.52.49:315][835]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2018.03.10-16.52.49:315][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.020491s)
+[2018.03.10-16.52.49:341][835]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-16.52.49:357][835]LogInit: FAudioDevice initialized.
+[2018.03.10-16.52.49:398][835]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.10-16.52.49:401][835]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.10-19.52.49
+[2018.03.10-16.52.49:402][835]LogWorld: Bringing up level for play took: 0.002760
+[2018.03.10-16.52.49:407][835]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 0.124
+[2018.03.10-16.52.57:272][132]LogEditorViewport: Clicking on Actor (LMB): bitl_C (bitl)
+[2018.03.10-16.53.45:001][712]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.10-16.53.45:001][712]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.10-16.55.24:379][306]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.10-16.55.24:379][306]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.10-16.55.46:916][178]Cmd: TRANSACTION UNDO
+[2018.03.10-16.55.46:916][178]LogEditorTransaction: Undo Select Brush Surface
+[2018.03.10-16.55.47:497][195]Cmd: TRANSACTION UNDO
+[2018.03.10-16.55.47:498][195]LogEditorTransaction: Undo Select Brush Surface
+[2018.03.10-16.55.48:266][218]Cmd: TRANSACTION UNDO
+[2018.03.10-16.55.48:266][218]LogEditorTransaction: Undo Create Actors
+[2018.03.10-16.56.30:655][789]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.03.10-16.57.34:691][210]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.03.10-16.57.35:162][224]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.03.10-16.57.36:567][275]Cmd: EDIT COPY
+[2018.03.10-16.57.38:625][346]Cmd: EDIT PASTE
+[2018.03.10-16.57.55:525][961]Cmd: EDIT PASTE
+[2018.03.10-16.58.48:861][852]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume3)
+[2018.03.10-16.58.50:051][891]Cmd: EDIT COPY
+[2018.03.10-16.58.50:711][914]Cmd: EDIT PASTE
+[2018.03.10-16.59.03:497][365]LogEditorViewport: Clicking on Actor (LMB): key_C (key)
+[2018.03.10-16.59.05:118][421]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.03.10-16.59.08:081][525]LogEditorViewport: Clicking on Actor (LMB): bitl_C (bitl)
+[2018.03.10-17.01.39:627][172]LogSavePackage: Save=169.77ms
+[2018.03.10-17.01.39:627][172]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room_Auto2E4C6B2204DAC82E8246025851BB37316.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto2.umap'
+[2018.03.10-17.01.39:629][172]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto2.umap
+[2018.03.10-17.01.39:632][172]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cockroaches/room' took 0.279
+[2018.03.10-17.01.39:632][172]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.279
+[2018.03.11-02.04.30:144][437]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.03.11-07.45.21:755][485]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.03.11-07.45.21:755][485]LogHttp: Warning: 0000027E26B5E380: request failed, libcurl error: 0 (No error)
+[2018.03.11-07.45.21:921][485]LogHttp: Warning: 0000027E26B5E380: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x27e236fffe8 [can pipeline])
+[2018.03.11-07.45.21:978][485]LogHttp: Warning: 0000027E26B5E380: libcurl info message cache 1 (Re-using existing connection! (#44) with host datarouter.ol.epicgames.com)
+[2018.03.11-07.45.21:978][485]LogHttp: Warning: 0000027E26B5E380: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.71.110.218) port 443 (#44))
+[2018.03.11-07.45.21:978][485]LogHttp: Warning: 0000027E26B5E380: libcurl info message cache 3 (Closing connection 44)
+[2018.03.11-07.53.05:476][ 67]LogEditorViewport: Clicking on Actor (LMB): key_C (key)
+[2018.03.11-08.04.28:064][491]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.11-08.04.28:064][491]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.11-08.07.58:546][908]LogEditorViewport: Clicking on Actor (context menu): key_C (key)
+[2018.03.11-08.08.02:031][ 20]LogEditorViewport: Clicking on Actor (LMB): key_C (key)
+[2018.03.11-08.08.03:165][ 62]LogEditorViewport: Clicking on Actor (LMB): key_C (key)
+[2018.03.11-08.08.03:212][ 62]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cylinder)
+[2018.03.11-08.08.06:339][149]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (Cylinder)
+[2018.03.11-08.08.11:607][318]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2018.03.11-08.08.12:529][352]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2018.03.11-08.08.22:852][711]Cmd: DELETE
+[2018.03.11-08.08.22:852][711]Cmd: ACTOR DELETE
+[2018.03.11-08.08.23:190][711]LogEditorActor: Deleted Actor: key_C
+[2018.03.11-08.08.23:441][711]LogEditorActor: Deleted 1 Actors (0.483 secs)
+[2018.03.11-08.08.49:146][895]LogSavePackage: Save=268.40ms
+[2018.03.11-08.08.49:146][895]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room_Auto3F68E296140ECA16CCE4F67AC8AFF83CD.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto3.umap'
+[2018.03.11-08.08.49:149][895]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto3.umap
+[2018.03.11-08.08.49:197][895]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cockroaches/room' took 0.524
+[2018.03.11-08.08.49:197][895]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.524
+[2018.03.11-08.08.49:206][895]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cockroaches/Key_door_System/NewBlueprint] ([1] browsable assets)...
+[2018.03.11-08.08.49:206][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cockroaches/Key_door_System/NewBlueprint]
+[2018.03.11-08.08.49:337][895]LogSavePackage: Save=123.59ms
+[2018.03.11-08.08.49:337][895]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/NewBlueprint_Auto3DF8EE0774CCDEEE30040CDB20B5EFE12.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/Key_door_System/NewBlueprint_Auto3.uasset'
+[2018.03.11-08.08.49:340][895]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/Key_door_System/NewBlueprint_Auto3.uasset
+[2018.03.11-08.08.49:340][895]LogFileHelpers: Auto-saving content packages took 0.140
+[2018.03.11-08.09.14:770][ 13]LogSlate: Took 0.039412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.11-08.09.18:292][ 13]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0393 seconds. Added 116 classes and 0 folders.
+[2018.03.11-08.09.29:434][138]LogSlate: Took 0.015021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.11-08.10.40:106][207]LogRenderer: Reallocating scene render targets to support 964x540 Format 10 NumSamples 1 (Frame:1098).
+[2018.03.11-08.12.12:576][527]LogEditorTransaction: Undo Remove Components
+[2018.03.11-08.17.48:490][881]BlueprintLog: New page: Compile NewBlueprint
+[2018.03.11-08.17.51:138][909]LogSavePackage: Save=140.00ms
+[2018.03.11-08.17.51:138][909]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/NewBlueprint966F9C674BD1B1D5A6F61F97D39C7872.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Key_door_System/NewBlueprint.uasset'
+[2018.03.11-08.17.51:151][909]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Key_door_System/NewBlueprint.uasset
+[2018.03.11-08.18.35:330][581]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint)
+[2018.03.11-08.19.17:183][308]LogSavePackage: Save=138.35ms
+[2018.03.11-08.19.17:183][308]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room_Auto4E154D1C24AAB0D0FC56C30B2A7CBA346.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto4.umap'
+[2018.03.11-08.19.17:188][308]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto4.umap
+[2018.03.11-08.19.17:191][308]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cockroaches/room' took 0.235
+[2018.03.11-08.19.17:191][308]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.235
+[2018.03.11-08.20.02:755][519]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint)
+[2018.03.11-08.20.03:496][542]LogEditorViewport: Clicking on Actor (context menu): NewBlueprint_C (NewBlueprint)
+[2018.03.11-08.22.05:614][799]LogEditorViewport: Clicking on Actor (context menu): NewBlueprint_C (NewBlueprint)
+[2018.03.11-08.22.27:304][901]LogStaticMesh: Building static mesh Key_MERGED_NewBlueprint_164...
+[2018.03.11-08.22.27:457][901]LogStaticMesh: Built static mesh [0.17s] /Game/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164.Key_MERGED_NewBlueprint_164
+[2018.03.11-08.22.34:400][112]LogEditorViewport: Clicking on Actor (context menu): NewBlueprint_C (NewBlueprint)
+[2018.03.11-08.22.37:984][204]LogActorFactory: Actor Factory created Key_MERGED_NewBlueprint_164
+[2018.03.11-08.22.39:459][257]LogActorFactory: Actor Factory created Key_MERGED_NewBlueprint_164
+[2018.03.11-08.22.41:088][313]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint)
+[2018.03.11-08.22.42:366][358]LogEditorViewport: Clicking on Actor (context menu): NewBlueprint_C (NewBlueprint)
+[2018.03.11-08.22.45:505][451]Cmd: DELETE
+[2018.03.11-08.22.45:505][451]Cmd: ACTOR DELETE
+[2018.03.11-08.22.45:515][451]LogEditorActor: Deleted Actor: NewBlueprint_C
+[2018.03.11-08.22.45:558][451]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.03.11-08.22.53:286][628]LogSlate: Took 0.067715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.11-08.23.28:758][192]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0267 seconds. Added 1 classes and 0 folders.
+[2018.03.11-08.23.28:787][192]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.23.29:684][192]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.03.11-08.23.30:138][192]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.23.45:394][527]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.11-08.23.45:394][527]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.11-08.23.45:394][527]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.11-08.23.45:394][527]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.11-08.24.22:844][931]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.24.32:868][150]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.11-08.24.32:868][150]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.11-08.24.32:868][150]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.11-08.24.32:868][150]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.11-08.24.34:104][172]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.24.37:143][238]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.24.37:194][238]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.24.43:854][374]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.24.44:009][374]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.24.46:602][431]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.24.46:659][431]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.24.48:595][468]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.24.48:681][468]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.24.49:769][491]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.24.49:833][491]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.25.00:157][607]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.11-08.25.00:158][607]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.11-08.25.00:158][607]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.11-08.25.00:158][607]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.11-08.25.09:744][696]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.25.09:814][696]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.25.11:185][724]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.25.11:252][724]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.25.12:540][748]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.25.12:601][748]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.25.15:084][799]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.25.15:141][799]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.25.17:976][860]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.25.18:060][860]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.25.22:716][961]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.25.22:777][961]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.25.24:264][992]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.25.24:321][992]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.25.25:637][ 20]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.25.25:705][ 20]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.25.27:047][ 48]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.25.27:141][ 48]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.25.27:770][ 61]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.25.27:835][ 61]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.25.37:438][262]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.11-08.25.37:438][262]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.11-08.25.37:438][262]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.11-08.25.37:438][262]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.11-08.26.00:429][734]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.26.00:472][734]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.26.04:225][813]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.26.04:284][813]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.26.06:191][852]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.26.06:253][852]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.26.13:130][992]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.26.13:193][992]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.11-08.26.20:306][138]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.26.23:117][195]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.26.23:168][195]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.03.11-08.26.26:436][264]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.26.26:510][264]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.03.11-08.26.30:433][345]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.26.30:485][345]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.03.11-08.26.38:478][509]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.26.38:535][509]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.03.11-08.26.39:945][536]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.26.40:011][536]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.03.11-08.26.40:440][544]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.26.40:495][544]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.03.11-08.26.47:607][689]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.26.57:600][904]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.26.59:652][946]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.27.08:244][125]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.27.10:615][174]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.27.15:267][269]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.27.18:541][337]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.27.18:588][337]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.11-08.27.21:706][402]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.27.21:764][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.11-08.27.25:704][483]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.27.25:763][483]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.11-08.27.35:720][691]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.11-08.27.35:720][691]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.11-08.27.35:720][691]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.11-08.27.35:721][691]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.11-08.27.45:854][907]LogMaterialEditor: Saving and Compiling material Key_Material
+[2018.03.11-08.27.49:063][907]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.27.49:159][907]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.27.49:300][907]LogMaterial: Missing cached shader map for material Key_Material, compiling. 
+[2018.03.11-08.27.49:492][907]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Key_Material, compiling. 
+[2018.03.11-08.27.52:437][907]TextureStreamingBuild: Display: Compiling optional shaders took 2.973 seconds.
+[2018.03.11-08.27.57:353][907]LogSavePackage: Save=27.93ms
+[2018.03.11-08.27.57:354][907]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Key_Material2E164A42443A6539D6E037A713CBE8E5.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Key_door_System/Key_Material.uasset'
+[2018.03.11-08.27.57:359][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Key_door_System/Key_Material.uasset
+[2018.03.11-08.27.57:384][907]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.11-08.27.57:384][907]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.11-08.27.57:384][907]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.11-08.27.57:385][907]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.11-08.28.41:393][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Key_MERGED_NewBlueprint_164)
+[2018.03.11-08.29.18:196][785]LogSavePackage: Save=252.09ms
+[2018.03.11-08.29.18:196][785]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room_Auto5A6F32D224B5F272A3732BC90C170D9F1.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto5.umap'
+[2018.03.11-08.29.18:202][785]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto5.umap
+[2018.03.11-08.29.18:210][785]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cockroaches/room' took 0.428
+[2018.03.11-08.29.18:210][785]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.428
+[2018.03.11-08.29.18:215][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164] ([1] browsable assets)...
+[2018.03.11-08.29.18:265][785]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164.Key_MERGED_NewBlueprint_164]
+[2018.03.11-08.29.18:265][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164]
+[2018.03.11-08.29.18:308][785]LogSavePackage: Save=38.02ms
+[2018.03.11-08.29.18:308][785]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Key_MERGED_NewBlueprint_164_AutoC25C0D034E933691B862DCAA65401982.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164_Auto5.uasset'
+[2018.03.11-08.29.18:311][785]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164_Auto5.uasset
+[2018.03.11-08.29.18:312][785]LogFileHelpers: Auto-saving content packages took 0.099
+[2018.03.11-08.29.37:476][232]LogEditorViewport: Clicking on Actor (LMB): Key_MERGED_NewBlueprint_164_Blueprint_C (Key_MERGED_NewBlueprint_164_Blueprint)
+[2018.03.11-08.29.38:311][258]LogEditorViewport: Clicking on Actor (context menu): Key_MERGED_NewBlueprint_164_Blueprint_C (Key_MERGED_NewBlueprint_164_Blueprint)
+[2018.03.11-08.29.41:288][344]Cmd: DELETE
+[2018.03.11-08.29.41:288][344]Cmd: ACTOR DELETE
+[2018.03.11-08.29.41:292][344]LogEditorActor: Deleted Actor: Key_MERGED_NewBlueprint_164_Blueprint_C
+[2018.03.11-08.29.41:328][344]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.03.11-08.32.21:930][ 96]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.11-08.32.24:167][132]LogSavePackage: Save=200.22ms
+[2018.03.11-08.32.24:167][132]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/ThirdPersonCharacter2DC6CBB04318282E1436F3BCE54882AA.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.11-08.32.24:178][132]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.11-08.34.45:418][753]BlueprintLog: New page: Compile Key_MERGED_NewBlueprint_164_Blueprint
+[2018.03.11-08.34.46:901][767]LogSavePackage: Save=42.39ms
+[2018.03.11-08.34.46:901][767]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Key_MERGED_NewBlueprint_164_BlueE31EBB6F4A3EDEE21FBF998BD684AA6A.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164_Blueprint.uasset'
+[2018.03.11-08.34.46:907][767]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164_Blueprint.uasset
+[2018.03.11-08.39.25:315][638]LogSavePackage: Save=274.45ms
+[2018.03.11-08.39.25:315][638]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room_Auto6EAF5043B482943B65B3E1798EB9C4A42.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto6.umap'
+[2018.03.11-08.39.25:318][638]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto6.umap
+[2018.03.11-08.39.25:323][638]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cockroaches/room' took 0.366
+[2018.03.11-08.39.25:323][638]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.366
+[2018.03.11-08.39.25:326][638]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164_Blueprint] ([1] browsable assets)...
+[2018.03.11-08.39.25:375][638]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164_Blueprint.Key_MERGED_NewBlueprint_164_Blueprint]
+[2018.03.11-08.39.25:375][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164_Blueprint]
+[2018.03.11-08.39.25:450][638]LogSavePackage: Save=58.28ms
+[2018.03.11-08.39.25:450][638]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Key_MERGED_NewBlueprint_164_BlueDF02117E42BBD6A398C73D86FF8B9A68.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164_Blueprint_Auto6.uasset'
+[2018.03.11-08.39.25:453][638]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164_Blueprint_Auto6.uasset
+[2018.03.11-08.39.25:453][638]LogFileHelpers: Auto-saving content packages took 0.129
+[2018.03.11-08.40.52:061][320]BlueprintLog: New page: Compile Key_MERGED_NewBlueprint_164_Blueprint
+[2018.03.11-08.40.53:824][340]LogSavePackage: Save=55.69ms
+[2018.03.11-08.40.53:824][340]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Key_MERGED_NewBlueprint_164_Blue14D4F7CA4D20A6593ACFD2825956C9DE.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164_Blueprint.uasset'
+[2018.03.11-08.40.53:834][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164_Blueprint.uasset
+[2018.03.11-08.41.43:412][579]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-08.41.43:477][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-08.41.43:479][579]PIE: New page: PIE session: room (Mar 11, 2018, 2:41:43 PM)
+[2018.03.11-08.41.43:506][579]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-08.41.44:019][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.513161s)
+[2018.03.11-08.41.44:022][579]LogAIModule: Creating AISystem for world room
+[2018.03.11-08.41.44:071][579]LogPlayLevel: PIE: World Init took: (0.051501s)
+[2018.03.11-08.41.44:071][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.565562s)
+[2018.03.11-08.41.44:159][579]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-08.41.44:242][579]LogInit: FAudioDevice initialized.
+[2018.03.11-08.41.44:344][579]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-08.41.44:403][579]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-11.41.44
+[2018.03.11-08.41.44:438][579]LogWorld: Bringing up level for play took: 0.067367
+[2018.03.11-08.41.44:524][579]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 1.667
+[2018.03.11-08.41.45:349][606]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.901 Z=-0.000
+[2018.03.11-08.41.45:370][606]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-08.41.48:925][730]LogEditorViewport: Clicking on Actor (LMB): Key_MERGED_NewBlueprint_164_Blueprint_C (Key_MERGED_NewBlueprint_164_Blueprint2)
+[2018.03.11-08.42.09:212][431]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-08.42.09:271][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-08.42.09:271][431]PIE: New page: PIE session: room (Mar 11, 2018, 2:42:09 PM)
+[2018.03.11-08.42.09:271][431]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-08.42.09:293][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021416s)
+[2018.03.11-08.42.09:294][431]LogAIModule: Creating AISystem for world room
+[2018.03.11-08.42.09:294][431]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2018.03.11-08.42.09:294][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.023300s)
+[2018.03.11-08.42.09:350][431]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-08.42.09:370][431]LogInit: FAudioDevice initialized.
+[2018.03.11-08.42.09:413][431]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-08.42.09:415][431]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-11.42.09
+[2018.03.11-08.42.09:416][431]LogWorld: Bringing up level for play took: 0.002429
+[2018.03.11-08.42.09:419][431]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 0.563
+[2018.03.11-08.42.10:259][459]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.901 Z=-0.000
+[2018.03.11-08.42.10:259][459]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-08.42.28:712][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.03.11-08.42.39:995][470]Cmd: DELETE
+[2018.03.11-08.42.39:995][470]Cmd: ACTOR DELETE
+[2018.03.11-08.42.40:003][470]LogEditorActor: Deleted Actor: Brush
+[2018.03.11-08.42.40:361][470]LogEditorActor: Deleted 1 Actors (0.366 secs)
+[2018.03.11-08.42.45:050][648]Cmd: TRANSACTION UNDO
+[2018.03.11-08.42.45:050][648]LogEditorTransaction: Undo Delete Actors
+[2018.03.11-08.42.46:461][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.03.11-08.43.08:457][206]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2018.03.11-08.43.09:542][242]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2018.03.11-08.43.30:874][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.03.11-08.43.46:583][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.44.10:211][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.44.19:229][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.44.42:777][198]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2018.03.11-08.44.44:198][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.44.44:275][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.44.44:553][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.44.58:173][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.45.51:029][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.46.43:181][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.46.53:837][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.46.54:981][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.47.04:345][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.47.29:898][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.48.12:735][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.03.11-08.48.50:932][425]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door2)
+[2018.03.11-08.48.55:628][562]Cmd: DELETE
+[2018.03.11-08.48.55:628][562]Cmd: ACTOR DELETE
+[2018.03.11-08.48.55:634][562]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.11-08.48.55:681][562]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.03.11-08.49.35:441][  5]LogSavePackage: Save=264.86ms
+[2018.03.11-08.49.35:441][  5]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room_Auto75E729614486E4963FC9A87B03D83FECD.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto7.umap'
+[2018.03.11-08.49.35:445][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto7.umap
+[2018.03.11-08.49.35:452][  5]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cockroaches/room' took 0.425
+[2018.03.11-08.49.35:452][  5]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.425
+[2018.03.11-08.49.35:455][  5]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cockroaches/door] ([1] browsable assets)...
+[2018.03.11-08.49.35:455][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cockroaches/door]
+[2018.03.11-08.49.35:480][  5]LogSavePackage: Save=20.64ms
+[2018.03.11-08.49.35:481][  5]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/door_Auto751064BA7459C04A4DCAEF7B7D749C1E7.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/door_Auto7.uasset'
+[2018.03.11-08.49.35:491][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/door_Auto7.uasset
+[2018.03.11-08.49.35:491][  5]LogFileHelpers: Auto-saving content packages took 0.037
+[2018.03.11-08.51.57:356][127]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.11-08.51.58:336][147]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.11-08.53.22:152][113]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.53.22:350][113]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.53.22:408][113]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.53.22:501][113]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.03.11-08.53.22:513][113]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.03.11-08.53.22:525][113]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.03.11-08.53.22:539][113]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2018.03.11-08.53.22:551][113]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_9, compiling. 
+[2018.03.11-08.53.22:563][113]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_10, compiling. 
+[2018.03.11-08.53.34:275][160]MaterialEditorStats: Base pass shader: 125 instructions
+[2018.03.11-08.53.34:275][160]MaterialEditorStats: Base pass shader with Surface Lightmap: 145 instructions
+[2018.03.11-08.53.34:275][160]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2018.03.11-08.53.34:275][160]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.11-08.53.34:275][160]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.11-08.53.34:275][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.11-08.54.04:653][470]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.54.04:734][470]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2018.03.11-08.54.10:371][591]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.54.10:442][591]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2018.03.11-08.54.11:803][618]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.54.11:864][618]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2018.03.11-08.54.16:682][713]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.54.16:748][713]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2018.03.11-08.54.17:723][733]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.54.17:788][733]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2018.03.11-08.54.25:637][909]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.54.25:724][909]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2018.03.11-08.54.36:186][133]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.54.36:251][133]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_10, compiling. 
+[2018.03.11-08.54.37:180][150]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.54.37:245][150]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_10, compiling. 
+[2018.03.11-08.54.39:725][201]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.54.39:792][201]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_10, compiling. 
+[2018.03.11-08.54.48:456][338]LogMaterialEditor: Saving and Compiling material M_Door
+[2018.03.11-08.54.50:171][338]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.54.50:386][338]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.54.50:591][338]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.03.11-08.54.50:757][338]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.03.11-08.54.55:297][338]TextureStreamingBuild: Display: Compiling optional shaders took 4.554 seconds.
+[2018.03.11-08.55.05:324][338]LogSavePackage: Save=114.10ms
+[2018.03.11-08.55.05:324][338]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/M_DoorC3A76D3B4C5665F7D6D9CD9ACD089DD1.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/StarterContent/Props/Materials/M_Door.uasset'
+[2018.03.11-08.55.05:346][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/StarterContent/Props/Materials/M_Door.uasset
+[2018.03.11-08.55.05:364][338]MaterialEditorStats: Base pass shader: 125 instructions
+[2018.03.11-08.55.05:364][338]MaterialEditorStats: Base pass shader with Surface Lightmap: 145 instructions
+[2018.03.11-08.55.05:364][338]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2018.03.11-08.55.05:364][338]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.11-08.55.05:364][338]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.11-08.55.05:364][338]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.11-08.57.55:465][876]BlueprintLog: New page: Compile door
+[2018.03.11-08.57.57:321][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-08.57.57:375][901]LogSavePackage: Save=50.31ms
+[2018.03.11-08.57.57:375][901]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/doorC50958B94C258DAFDD76A3AC58529952.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-08.57.57:388][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-08.58.37:778][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.58.40:805][277]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.03.11-08.58.46:154][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.58.48:829][566]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.03.11-08.59.06:172][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-08.59.11:253][406]LogEditorViewport: Clicking on Actor (context menu): door_C (door)
+[2018.03.11-08.59.46:157][  5]LogSavePackage: Save=245.25ms
+[2018.03.11-08.59.46:157][  5]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room_Auto8F0FC95F84A244076B0DE20BAC9768BCC.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto8.umap'
+[2018.03.11-08.59.46:166][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto8.umap
+[2018.03.11-08.59.46:175][  5]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cockroaches/room' took 0.345
+[2018.03.11-08.59.46:176][  5]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.345
+[2018.03.11-09.00.05:054][741]LogEditorViewport: Clicking on Actor (context menu): door_C (door)
+[2018.03.11-09.00.05:138][741]LogEditorViewport: Clicking on Actor (context menu): door_C (door)
+[2018.03.11-09.01.57:014][265]BlueprintLog: New page: Compile door
+[2018.03.11-09.01.58:776][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-09.01.58:846][284]LogSavePackage: Save=43.53ms
+[2018.03.11-09.01.58:846][284]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/door6EED263E4DE2243573A889A4BD39E84A.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-09.01.58:853][284]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-09.02.12:789][544]LogEditorViewport: Clicking on Actor (context menu): door_C (door)
+[2018.03.11-09.02.16:149][642]Cmd: DELETE
+[2018.03.11-09.02.16:149][642]Cmd: ACTOR DELETE
+[2018.03.11-09.02.16:158][642]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.11-09.02.16:159][642]LogEditorActor: Deleted Actor: door_C
+[2018.03.11-09.02.16:204][642]LogEditorActor: Deleted 2 Actors (0.055 secs)
+[2018.03.11-09.02.20:434][809]Cmd: TRANSACTION UNDO
+[2018.03.11-09.02.20:434][809]LogEditorTransaction: Undo Delete Actors
+[2018.03.11-09.02.32:932][273]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.03.11-09.02.33:781][302]LogEditorViewport: Clicking on Actor (context menu): door_C (door)
+[2018.03.11-09.02.37:013][413]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.03.11-09.02.40:260][534]LogEditorViewport: Clicking on Actor (context menu): door_C (door)
+[2018.03.11-09.02.46:368][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-09.02.46:509][764]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.03.11-09.09.49:871][  9]LogSavePackage: Save=151.63ms
+[2018.03.11-09.09.49:871][  9]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room_Auto93712427B45C401B21EB44985961DC998.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto9.umap'
+[2018.03.11-09.09.49:875][  9]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto9.umap
+[2018.03.11-09.09.49:878][  9]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cockroaches/room' took 0.255
+[2018.03.11-09.09.49:879][  9]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.255
+[2018.03.11-09.09.49:882][  9]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cockroaches/door] ([1] browsable assets)...
+[2018.03.11-09.09.49:924][  9]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Cockroaches/door.door]
+[2018.03.11-09.09.49:924][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cockroaches/door]
+[2018.03.11-09.09.49:987][  9]LogSavePackage: Save=44.58ms
+[2018.03.11-09.09.49:987][  9]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/door_Auto9B3FD8C86447439439399E488EF2875D2.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/door_Auto9.uasset'
+[2018.03.11-09.09.49:989][  9]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/door_Auto9.uasset
+[2018.03.11-09.09.49:989][  9]LogFileHelpers: Auto-saving content packages took 0.109
+[2018.03.11-09.11.41:418][341]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.11-09.11.41:418][341]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.11-09.11.54:017][743]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\Анжелика\Downloads\zvuk-skrip-dveri.mp3)
+[2018.03.11-09.11.54:031][743]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\Анжелика\Downloads\zvuk-dveri-mashina.mp3)
+[2018.03.11-09.12.49:981][584]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/Анжелика/Downloads/zvuk-dveri-mashina.mp3)
+[2018.03.11-09.13.44:972][202]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.11-09.13.44:972][202]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.11-09.16.48:587][ 75]LogRenderer: Reallocating scene render targets to support 1144x708 Format 10 NumSamples 1 (Frame:1).
+[2018.03.11-09.17.14:431][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/StarterContent/Props/SM_Door.uasset" SILENT=true
+[2018.03.11-09.17.14:901][326]LogSavePackage: Save=448.51ms
+[2018.03.11-09.17.14:902][326]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/SM_Door73F9EDCC42BFCA1EDD0F8995D652A0CF.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/StarterContent/Props/SM_Door.uasset'
+[2018.03.11-09.17.14:907][326]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/StarterContent/Props/SM_Door.uasset
+[2018.03.11-09.18.34:775][974]BlueprintLog: New page: Compile door
+[2018.03.11-09.18.36:728][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-09.18.37:144][998]LogSavePackage: Save=385.95ms
+[2018.03.11-09.18.37:145][998]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/door5B19B18E43691AA9306B5DBE7FB62CE1.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-09.18.37:224][998]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-09.20.13:403][138]LogSavePackage: Save=168.17ms
+[2018.03.11-09.20.13:403][138]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room_Auto04C1423D34A939ACD4CD9DA8A8BB87CB5.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto0.umap'
+[2018.03.11-09.20.13:406][138]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto0.umap
+[2018.03.11-09.20.13:427][138]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cockroaches/room' took 0.277
+[2018.03.11-09.20.13:427][138]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.277
+[2018.03.11-09.20.13:430][138]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cockroaches/door] ([1] browsable assets)...
+[2018.03.11-09.20.13:474][138]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Cockroaches/door.door]
+[2018.03.11-09.20.13:474][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cockroaches/door]
+[2018.03.11-09.20.13:567][138]LogSavePackage: Save=74.40ms
+[2018.03.11-09.20.13:568][138]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/door_Auto0998EF18A44F525CA0C1ACBBAE53BC9C0.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/door_Auto0.uasset'
+[2018.03.11-09.20.13:570][138]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/door_Auto0.uasset
+[2018.03.11-09.20.13:571][138]LogFileHelpers: Auto-saving content packages took 0.141
+[2018.03.11-09.25.27:659][696]LogEditorTransaction: Undo Add Key(s)
+[2018.03.11-09.27.32:198][308]BlueprintLog: New page: Compile door
+[2018.03.11-09.27.33:690][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-09.27.33:801][328]LogSavePackage: Save=84.72ms
+[2018.03.11-09.27.33:801][328]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/doorF62A73CE4A789B88A228C1A6A9B4A447.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-09.27.33:817][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-09.27.36:456][402]BlueprintLog: New page: Compile door
+[2018.03.11-09.27.38:918][452]BlueprintLog: New page: Compile door
+[2018.03.11-09.27.40:197][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-09.27.40:293][466]LogSavePackage: Save=83.31ms
+[2018.03.11-09.27.40:293][466]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/doorDDAFCC874D31FBB638CC52B270BA9193.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-09.27.40:296][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-09.30.20:813][179]LogSavePackage: Save=230.60ms
+[2018.03.11-09.30.20:813][179]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room_Auto1EADCFB604CC743E84A56B98149560C3B.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto1.umap'
+[2018.03.11-09.30.20:824][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto1.umap
+[2018.03.11-09.30.20:830][179]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cockroaches/room' took 0.332
+[2018.03.11-09.30.20:830][179]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.332
+[2018.03.11-09.30.20:835][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cockroaches/door] ([1] browsable assets)...
+[2018.03.11-09.30.20:876][179]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Cockroaches/door.door]
+[2018.03.11-09.30.20:876][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cockroaches/door]
+[2018.03.11-09.30.20:968][179]LogSavePackage: Save=82.45ms
+[2018.03.11-09.30.20:968][179]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/door_Auto1BF5407A946BE3EDAF293959D42953A87.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/door_Auto1.uasset'
+[2018.03.11-09.30.20:975][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/door_Auto1.uasset
+[2018.03.11-09.30.20:975][179]LogFileHelpers: Auto-saving content packages took 0.142
+[2018.03.11-09.32.10:614][576]BlueprintLog: New page: Compile door
+[2018.03.11-09.32.12:076][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-09.32.12:189][595]LogSavePackage: Save=98.74ms
+[2018.03.11-09.32.12:189][595]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/door79662E1D4ACB090E8FEACF8E5B358564.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-09.32.12:200][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-09.32.14:717][677]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.32.15:093][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-09.32.15:093][677]PIE: New page: PIE session: room (Mar 11, 2018, 3:32:15 PM)
+[2018.03.11-09.32.15:093][677]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.32.15:123][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029440s)
+[2018.03.11-09.32.15:124][677]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.32.15:124][677]LogPlayLevel: PIE: World Init took: (0.001678s)
+[2018.03.11-09.32.15:125][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.031849s)
+[2018.03.11-09.32.15:169][677]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.32.15:190][677]LogInit: FAudioDevice initialized.
+[2018.03.11-09.32.15:230][677]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.32.15:234][677]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.32.15
+[2018.03.11-09.32.15:235][677]LogWorld: Bringing up level for play took: 0.003695
+[2018.03.11-09.32.15:239][677]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 0.383
+[2018.03.11-09.32.16:028][704]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.901 Z=-0.000
+[2018.03.11-09.32.16:028][704]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.32.40:336][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2018.03.11-09.32.59:189][320]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.03.11-09.33.11:606][761]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.03.11-09.33.12:691][798]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.03.11-09.33.27:718][328]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.03.11-09.33.28:524][355]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2018.03.11-09.33.51:270][154]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.33.51:330][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-09.33.51:330][154]PIE: New page: PIE session: room (Mar 11, 2018, 3:33:51 PM)
+[2018.03.11-09.33.51:330][154]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.33.51:353][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022794s)
+[2018.03.11-09.33.51:354][154]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.33.51:354][154]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2018.03.11-09.33.51:355][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.024380s)
+[2018.03.11-09.33.51:409][154]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.33.51:427][154]LogInit: FAudioDevice initialized.
+[2018.03.11-09.33.51:472][154]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.33.51:474][154]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.33.51
+[2018.03.11-09.33.51:475][154]LogWorld: Bringing up level for play took: 0.002370
+[2018.03.11-09.33.51:478][154]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 0.622
+[2018.03.11-09.33.52:390][182]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.901 Z=-0.000
+[2018.03.11-09.33.52:390][182]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.34.45:218][757]LogSavePackage: Save=34.08ms
+[2018.03.11-09.34.45:219][757]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Key_MERGED_NewBlueprint_164DE61681F46C92A9CC5335098201A3B5F.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164.uasset'
+[2018.03.11-09.34.45:230][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Key_door_System/Key_MERGED_NewBlueprint_164.uasset
+[2018.03.11-09.34.52:375][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/room" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.11-09.34.52:567][757]LogSavePackage: Save=142.63ms
+[2018.03.11-09.34.52:567][757]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/roomEFAAAB6B414A4E872C11969C2D5EA85A.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap'
+[2018.03.11-09.34.52:586][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap
+[2018.03.11-09.34.52:778][757]LogFileHelpers: Saving map 'room' took 7.547
+[2018.03.11-09.34.52:905][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_3/NewWorld" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Map_3/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.11-09.34.53:036][757]LogSavePackage: Save=30.33ms
+[2018.03.11-09.34.53:036][757]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/NewWorld47B73B4D47A69218636F9AADC101E926.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Map_3/NewWorld.umap'
+[2018.03.11-09.34.53:045][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Map_3/NewWorld.umap
+[2018.03.11-09.34.53:045][757]LogFileHelpers: Saving map 'NewWorld' took 0.268
+[2018.03.11-09.34.53:104][757]Cmd: MAP LOAD FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Map_3/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.11-09.34.53:104][757]LightingResults: New page: Lighting Build
+[2018.03.11-09.34.53:131][757]LoadErrors: New page: Loading map: NewWorld.umap
+[2018.03.11-09.34.53:140][757]MapCheck: New page: Map Check
+[2018.03.11-09.34.53:140][757]LightingResults: New page: Lighting Build
+[2018.03.11-09.34.53:510][757]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.11-09.34.53:510][757]LogAIModule: Creating AISystem for world NewWorld
+[2018.03.11-09.34.53:592][757]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.11-09.34.53:714][757]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 121.743ms to complete.
+[2018.03.11-09.34.53:715][757]LogFileHelpers: Loading map 'NewWorld' took 0.668
+[2018.03.11-09.35.03:506][257]LogActorFactory: Actor Factory created Plane
+[2018.03.11-09.35.17:014][910]LogEditorViewport: Clicking on Actor (context menu): SkyLight (SkyLight)
+[2018.03.11-09.35.20:635][ 28]Cmd: DELETE
+[2018.03.11-09.35.20:635][ 28]Cmd: ACTOR DELETE
+[2018.03.11-09.35.20:637][ 28]LogEditorActor: Deleted Actor: SkyLight
+[2018.03.11-09.35.20:682][ 28]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.03.11-09.35.36:973][616]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.35.39:235][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_3/NewWorld" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Map_3/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.11-09.35.39:317][616]LogSavePackage: Save=19.48ms
+[2018.03.11-09.35.39:317][616]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/NewWorld50F941234CFCC8EE657CCFAFE8492884.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Map_3/NewWorld.umap'
+[2018.03.11-09.35.39:324][616]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Map_3/NewWorld.umap
+[2018.03.11-09.35.39:373][616]LogFileHelpers: Saving map 'NewWorld' took 0.279
+[2018.03.11-09.35.39:374][616]Cmd: MAP LOAD FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.11-09.35.39:375][616]LightingResults: New page: Lighting Build
+[2018.03.11-09.35.39:379][616]LoadErrors: New page: Loading map: room.umap
+[2018.03.11-09.35.39:380][616]MapCheck: New page: Map Check
+[2018.03.11-09.35.39:380][616]LightingResults: New page: Lighting Build
+[2018.03.11-09.35.39:638][616]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.11-09.35.39:756][616]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.11-09.35.39:877][616]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 120.577ms to complete.
+[2018.03.11-09.35.39:878][616]LogFileHelpers: Loading map 'room' took 0.505
+[2018.03.11-09.36.14:187][519]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.11-09.36.36:378][990]BlueprintLog: New page: Compile door
+[2018.03.11-09.36.37:708][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-09.36.37:822][  5]LogSavePackage: Save=94.38ms
+[2018.03.11-09.36.37:822][  5]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/doorF6926E494381A6EA5EA82E96EB007449.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-09.36.37:828][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-09.36.47:981][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/room" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.11-09.36.48:171][281]LogSavePackage: Save=129.43ms
+[2018.03.11-09.36.48:171][281]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room86C059F743F22467CA3730ABED75C908.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap'
+[2018.03.11-09.36.48:177][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap
+[2018.03.11-09.36.48:255][281]LogFileHelpers: Saving map 'room' took 0.417
+[2018.03.11-09.36.48:261][281]Cmd: MAP LOAD FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.11-09.36.48:261][281]LightingResults: New page: Lighting Build
+[2018.03.11-09.36.48:263][281]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2018.03.11-09.36.48:264][281]MapCheck: New page: Map Check
+[2018.03.11-09.36.48:264][281]LightingResults: New page: Lighting Build
+[2018.03.11-09.36.48:539][281]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.11-09.36.48:627][281]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.11-09.36.48:737][281]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110.321ms to complete.
+[2018.03.11-09.36.48:738][281]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.480
+[2018.03.11-09.36.57:568][613]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.36.57:622][613]Cmd: MAP LOAD FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.11-09.36.57:623][613]LightingResults: New page: Lighting Build
+[2018.03.11-09.36.57:624][613]LoadErrors: New page: Loading map: room.umap
+[2018.03.11-09.36.57:625][613]MapCheck: New page: Map Check
+[2018.03.11-09.36.57:625][613]LightingResults: New page: Lighting Build
+[2018.03.11-09.36.57:850][613]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.11-09.36.57:943][613]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.11-09.36.58:060][613]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 117.232ms to complete.
+[2018.03.11-09.36.58:062][613]LogFileHelpers: Loading map 'room' took 0.443
+[2018.03.11-09.36.59:247][650]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.36.59:316][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-09.36.59:317][650]PIE: New page: PIE session: room (Mar 11, 2018, 3:36:59 PM)
+[2018.03.11-09.36.59:317][650]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.36.59:339][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022498s)
+[2018.03.11-09.36.59:340][650]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.36.59:340][650]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2018.03.11-09.36.59:341][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.023983s)
+[2018.03.11-09.36.59:375][650]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.36.59:395][650]LogInit: FAudioDevice initialized.
+[2018.03.11-09.36.59:431][650]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.36.59:434][650]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.36.59
+[2018.03.11-09.36.59:434][650]LogWorld: Bringing up level for play took: 0.002497
+[2018.03.11-09.36.59:437][650]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 0.582
+[2018.03.11-09.37.00:286][678]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.902 Z=-0.000
+[2018.03.11-09.37.00:286][678]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.37.17:994][341]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.37.18:019][341]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.37.23:480][341]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.11-09.37.23:481][341]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.37.23:497][341]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.03.11-12.37.23
+[2018.03.11-09.37.23:497][341]LogWorld: Bringing up level for play took: 0.015487
+[2018.03.11-09.37.23:498][341]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.11-09.37.23:520][341]LogLoad: Took 5.500293 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2018.03.11-09.37.51:062][123]BlueprintLog: New page: Compile door
+[2018.03.11-09.37.52:642][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-09.37.52:748][144]LogSavePackage: Save=93.38ms
+[2018.03.11-09.37.52:748][144]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/doorBD667B5A434354241DBE789B493CC8E6.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-09.37.52:751][144]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-09.37.54:706][187]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.11-09.37.54:976][187]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.11-09.38.00:426][377]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.03.11-09.38.07:913][613]Cmd: EDCALLBACK SURFPROPS
+[2018.03.11-09.38.08:327][625]Cmd: EDCALLBACK SURFPROPS
+[2018.03.11-09.38.42:114][664]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume2)
+[2018.03.11-09.38.42:961][690]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume2)
+[2018.03.11-09.38.44:093][728]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume3)
+[2018.03.11-09.38.46:614][813]LogEditorViewport: Clicking on Actor (context menu): TriggerVolume (TriggerVolume3)
+[2018.03.11-09.39.20:557][  3]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.11-09.39.20:557][  3]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.11-09.39.40:462][253]LogEditorViewport: Clicking on Actor (LMB): bitl_C (bitl)
+[2018.03.11-09.39.47:626][512]LogEditorViewport: Clicking on Actor (LMB): bitl_C (bitl)
+[2018.03.11-09.39.56:364][823]LogEditorViewport: Clicking on Actor (LMB): bitl_C (bitl)
+[2018.03.11-09.41.01:646][196]LogEditorViewport: Clicking on Actor (LMB): bitl_C (bitl)
+[2018.03.11-09.41.02:333][216]LogEditorViewport: Clicking on Actor (context menu): bitl_C (bitl)
+[2018.03.11-09.41.23:195][455]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.11-09.41.23:196][455]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.11-09.41.27:832][455]LogStaticMesh: Building static mesh Cocki...
+[2018.03.11-09.41.27:849][455]LogStaticMesh: Built static mesh [0.02s] /Game/Cockroaches/Cocki/Cocki.Cocki
+[2018.03.11-09.42.06:662][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/Cocki/Cocki" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Cocki/Cocki.uasset" SILENT=true
+[2018.03.11-09.42.06:696][175]LogSavePackage: Save=29.90ms
+[2018.03.11-09.42.06:696][175]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/CockiD5D9257A4A0DEA36E41969A6555F5D05.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Cocki/Cocki.uasset'
+[2018.03.11-09.42.06:702][175]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Cocki/Cocki.uasset
+[2018.03.11-09.42.09:537][245]Cmd: EDCALLBACK SURFPROPS
+[2018.03.11-09.42.11:256][309]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume2)
+[2018.03.11-09.42.12:558][354]LogEditorViewport: Clicking on Actor (context menu): TriggerVolume (TriggerVolume2)
+[2018.03.11-09.42.16:538][471]Cmd: DELETE
+[2018.03.11-09.42.16:538][471]Cmd: ACTOR DELETE
+[2018.03.11-09.42.16:540][471]LogEditorActor: Deleted Actor: TriggerVolume
+[2018.03.11-09.42.16:609][471]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2018.03.11-09.42.18:790][553]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.03.11-09.42.19:751][586]LogEditorViewport: Clicking on Actor (context menu): TriggerVolume (TriggerVolume)
+[2018.03.11-09.42.22:873][677]Cmd: DELETE
+[2018.03.11-09.42.22:873][677]Cmd: ACTOR DELETE
+[2018.03.11-09.42.22:876][677]LogEditorActor: Deleted Actor: TriggerVolume
+[2018.03.11-09.42.22:927][677]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2018.03.11-09.42.24:930][753]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume4)
+[2018.03.11-09.42.25:783][782]LogEditorViewport: Clicking on Actor (context menu): TriggerVolume (TriggerVolume4)
+[2018.03.11-09.42.29:706][893]Cmd: DELETE
+[2018.03.11-09.42.29:706][893]Cmd: ACTOR DELETE
+[2018.03.11-09.42.29:709][893]LogEditorActor: Deleted Actor: TriggerVolume
+[2018.03.11-09.42.29:753][893]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2018.03.11-09.42.32:767][  5]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume3)
+[2018.03.11-09.42.33:535][ 31]LogEditorViewport: Clicking on Actor (context menu): TriggerVolume (TriggerVolume3)
+[2018.03.11-09.42.36:253][109]Cmd: DELETE
+[2018.03.11-09.42.36:253][109]Cmd: ACTOR DELETE
+[2018.03.11-09.42.36:256][109]LogEditorActor: Deleted Actor: TriggerVolume
+[2018.03.11-09.42.36:299][109]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2018.03.11-09.43.13:865][260]LogEditorViewport: Clicking on Actor (LMB): bitl_C (bitl)
+[2018.03.11-09.43.17:590][387]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.43.17:642][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-09.43.17:642][387]PIE: New page: PIE session: room (Mar 11, 2018, 3:43:17 PM)
+[2018.03.11-09.43.17:643][387]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.43.17:728][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085753s)
+[2018.03.11-09.43.17:729][387]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.43.17:730][387]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2018.03.11-09.43.17:730][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.087522s)
+[2018.03.11-09.43.17:775][387]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.43.17:798][387]LogInit: FAudioDevice initialized.
+[2018.03.11-09.43.17:839][387]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.43.17:841][387]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.43.17
+[2018.03.11-09.43.17:842][387]LogWorld: Bringing up level for play took: 0.002591
+[2018.03.11-09.43.17:847][387]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 0.991
+[2018.03.11-09.43.23:015][550]LogEditorViewport: Clicking on Actor (LMB): bitl_C (bitl)
+[2018.03.11-09.43.57:828][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/Cocki/Cocki" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Cocki/Cocki.uasset" SILENT=true
+[2018.03.11-09.43.57:915][115]LogSavePackage: Save=25.74ms
+[2018.03.11-09.43.57:915][115]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/CockiD469285D4116C958D1DDD9887A179CC6.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Cocki/Cocki.uasset'
+[2018.03.11-09.43.57:929][115]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Cocki/Cocki.uasset
+[2018.03.11-09.44.00:273][166]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.44.00:320][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-09.44.00:320][166]PIE: New page: PIE session: room (Mar 11, 2018, 3:44:00 PM)
+[2018.03.11-09.44.00:321][166]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.44.00:393][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072566s)
+[2018.03.11-09.44.00:394][166]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.44.00:395][166]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2018.03.11-09.44.00:395][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.074668s)
+[2018.03.11-09.44.00:447][166]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.44.00:466][166]LogInit: FAudioDevice initialized.
+[2018.03.11-09.44.00:508][166]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.44.00:511][166]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.44.00
+[2018.03.11-09.44.00:512][166]LogWorld: Bringing up level for play took: 0.002723
+[2018.03.11-09.44.00:516][166]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room -0.34
+[2018.03.11-09.48.33:077][703]BlueprintLog: New page: Compile Collision
+[2018.03.11-09.48.34:717][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/Cocki/Collision" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Cocki/Collision.uasset" SILENT=true
+[2018.03.11-09.48.34:773][723]LogSavePackage: Save=47.62ms
+[2018.03.11-09.48.34:773][723]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Collision1890A77240C6B8B60862B980447BFAD2.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Cocki/Collision.uasset'
+[2018.03.11-09.48.34:779][723]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/Cocki/Collision.uasset
+[2018.03.11-09.49.15:866][ 53]LogEditorViewport: Clicking on Actor (LMB): Collision_C (Collision)
+[2018.03.11-09.49.26:058][391]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.49.26:133][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-09.49.26:134][391]PIE: New page: PIE session: room (Mar 11, 2018, 3:49:26 PM)
+[2018.03.11-09.49.26:134][391]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.49.26:150][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015746s)
+[2018.03.11-09.49.26:151][391]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.49.26:151][391]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2018.03.11-09.49.26:151][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.017563s)
+[2018.03.11-09.49.26:192][391]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.49.26:212][391]LogInit: FAudioDevice initialized.
+[2018.03.11-09.49.26:250][391]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.49.26:252][391]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.49.26
+[2018.03.11-09.49.26:275][391]LogWorld: Bringing up level for play took: 0.024373
+[2018.03.11-09.49.26:278][391]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room -0.578
+[2018.03.11-09.49.27:069][417]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.901 Z=-0.000
+[2018.03.11-09.49.27:069][417]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.49.27:186][421]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.49.27:186][421]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.49.54:431][287]LogSavePackage: Save=100.81ms
+[2018.03.11-09.49.54:431][287]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room_Auto2E61106A94F27A158F8847F9E715C43E9.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto2.umap'
+[2018.03.11-09.49.54:436][287]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Autosaves/Game/Cockroaches/room_Auto2.umap
+[2018.03.11-09.49.54:448][287]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cockroaches/room' took 0.188
+[2018.03.11-09.49.54:448][287]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.188
+[2018.03.11-09.50.13:228][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/room" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.11-09.50.13:380][790]LogSavePackage: Save=98.12ms
+[2018.03.11-09.50.13:381][790]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/roomACCAA6A74E931B5514CB95BED21D0F75.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap'
+[2018.03.11-09.50.13:390][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap
+[2018.03.11-09.50.15:978][877]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.50.16:030][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-09.50.16:031][877]PIE: New page: PIE session: room (Mar 11, 2018, 3:50:16 PM)
+[2018.03.11-09.50.16:032][877]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.50.16:047][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015535s)
+[2018.03.11-09.50.16:049][877]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.50.16:050][877]LogPlayLevel: PIE: World Init took: (0.002658s)
+[2018.03.11-09.50.16:051][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.019711s)
+[2018.03.11-09.50.16:093][877]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.50.16:110][877]LogInit: FAudioDevice initialized.
+[2018.03.11-09.50.16:147][877]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.50.16:152][877]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.50.16
+[2018.03.11-09.50.16:152][877]LogWorld: Bringing up level for play took: 0.004285
+[2018.03.11-09.50.16:156][877]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room -0.7
+[2018.03.11-09.50.16:941][903]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.902 Z=-0.000
+[2018.03.11-09.50.16:941][903]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.50.17:059][907]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.50.17:059][907]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.50.34:142][517]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.50.34:169][517]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.50.35:868][517]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.11-09.50.35:868][517]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.50.35:884][517]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.03.11-12.50.35
+[2018.03.11-09.50.35:885][517]LogWorld: Bringing up level for play took: 0.014928
+[2018.03.11-09.50.35:885][517]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.11-09.50.35:886][517]LogLoad: Took 1.717546 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2018.03.11-09.51.23:664][862]LogEditorTransaction: Undo Add Node
+[2018.03.11-09.51.58:341][770]BlueprintLog: New page: Compile door
+[2018.03.11-09.51.59:607][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-09.51.59:731][783]LogSavePackage: Save=92.06ms
+[2018.03.11-09.51.59:732][783]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/doorC1E1CF9C4960E8960CAD568C3502C98C.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-09.51.59:738][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-09.52.02:879][879]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.52.02:933][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-09.52.02:933][879]PIE: New page: PIE session: room (Mar 11, 2018, 3:52:02 PM)
+[2018.03.11-09.52.02:933][879]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.52.02:952][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018728s)
+[2018.03.11-09.52.02:953][879]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.52.02:954][879]LogPlayLevel: PIE: World Init took: (0.001865s)
+[2018.03.11-09.52.02:954][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.021268s)
+[2018.03.11-09.52.02:996][879]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.52.03:016][879]LogInit: FAudioDevice initialized.
+[2018.03.11-09.52.03:057][879]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.52.03:060][879]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.52.03
+[2018.03.11-09.52.03:060][879]LogWorld: Bringing up level for play took: 0.002072
+[2018.03.11-09.52.03:063][879]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 0.207
+[2018.03.11-09.52.03:865][905]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.902 Z=-0.000
+[2018.03.11-09.52.03:865][905]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.52.03:982][909]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.52.03:983][909]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.52.17:825][413]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.52.17:852][413]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.52.18:155][413]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.11-09.52.18:156][413]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.52.18:165][413]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.03.11-12.52.18
+[2018.03.11-09.52.18:165][413]LogWorld: Bringing up level for play took: 0.008279
+[2018.03.11-09.52.18:166][413]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.11-09.52.18:167][413]LogLoad: Took 0.314263 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2018.03.11-09.52.30:387][757]BlueprintLog: New page: Compile door
+[2018.03.11-09.52.32:015][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-09.52.32:143][777]LogSavePackage: Save=115.67ms
+[2018.03.11-09.52.32:143][777]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/door67EFC90C44564356EFE459AB5AA7282E.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-09.52.32:149][777]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-09.52.34:383][845]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.52.34:431][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-09.52.34:432][845]PIE: New page: PIE session: room (Mar 11, 2018, 3:52:34 PM)
+[2018.03.11-09.52.34:432][845]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.52.34:450][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017422s)
+[2018.03.11-09.52.34:451][845]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.52.34:451][845]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2018.03.11-09.52.34:452][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.019302s)
+[2018.03.11-09.52.34:498][845]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.52.34:517][845]LogInit: FAudioDevice initialized.
+[2018.03.11-09.52.34:556][845]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.52.34:558][845]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.52.34
+[2018.03.11-09.52.34:559][845]LogWorld: Bringing up level for play took: 0.002042
+[2018.03.11-09.52.34:562][845]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room -0.294
+[2018.03.11-09.52.35:373][871]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.902 Z=-0.000
+[2018.03.11-09.52.35:373][871]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.52.35:489][875]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.52.35:489][875]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.52.46:078][261]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.52.46:104][261]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.52.46:411][261]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.11-09.52.46:412][261]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.52.46:420][261]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.03.11-12.52.46
+[2018.03.11-09.52.46:421][261]LogWorld: Bringing up level for play took: 0.008163
+[2018.03.11-09.52.46:421][261]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.11-09.52.46:422][261]LogLoad: Took 0.317408 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2018.03.11-09.53.06:179][835]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.53.06:222][835]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.11-09.53.06:242][835]LogPlayLevel: [PlayLevel] Compiling door before play...
+[2018.03.11-09.53.06:919][835]LogPlayLevel: PlayLevel: Blueprint regeneration took 697 ms (1 blueprints)
+[2018.03.11-09.53.06:920][835]PIE: New page: PIE session: room (Mar 11, 2018, 3:53:06 PM)
+[2018.03.11-09.53.06:920][835]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.53.06:932][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012208s)
+[2018.03.11-09.53.06:933][835]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.53.06:934][835]LogPlayLevel: PIE: World Init took: (0.001642s)
+[2018.03.11-09.53.06:934][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.014395s)
+[2018.03.11-09.53.06:975][835]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.53.06:992][835]LogInit: FAudioDevice initialized.
+[2018.03.11-09.53.07:043][835]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.53.07:047][835]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.53.07
+[2018.03.11-09.53.07:048][835]LogWorld: Bringing up level for play took: 0.003709
+[2018.03.11-09.53.07:053][835]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 0.197
+[2018.03.11-09.53.08:092][860]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.901 Z=-0.000
+[2018.03.11-09.53.08:092][860]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.53.08:249][864]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.53.08:249][864]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.53.14:003][ 13]BlueprintLog: New page: Compile door
+[2018.03.11-09.53.15:748][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-09.53.15:855][ 34]LogSavePackage: Save=96.12ms
+[2018.03.11-09.53.15:855][ 34]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/doorB8A8BD7248F5CD91DD4C668FE430EB3C.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-09.53.15:866][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-09.53.18:769][123]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.53.18:818][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-09.53.18:819][123]PIE: New page: PIE session: room (Mar 11, 2018, 3:53:18 PM)
+[2018.03.11-09.53.18:819][123]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.53.18:832][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012738s)
+[2018.03.11-09.53.18:832][123]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.53.18:833][123]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2018.03.11-09.53.18:833][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.014209s)
+[2018.03.11-09.53.18:878][123]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.53.18:895][123]LogInit: FAudioDevice initialized.
+[2018.03.11-09.53.18:939][123]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.53.18:941][123]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.53.18
+[2018.03.11-09.53.18:942][123]LogWorld: Bringing up level for play took: 0.002044
+[2018.03.11-09.53.18:945][123]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 0.089
+[2018.03.11-09.53.19:749][149]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.901 Z=-0.000
+[2018.03.11-09.53.19:749][149]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.53.19:873][153]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.53.19:873][153]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.53.27:967][448]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.53.27:991][448]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.53.28:407][448]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.11-09.53.28:407][448]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.53.28:416][448]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.03.11-12.53.28
+[2018.03.11-09.53.28:417][448]LogWorld: Bringing up level for play took: 0.008530
+[2018.03.11-09.53.28:417][448]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.11-09.53.28:419][448]LogLoad: Took 0.427056 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2018.03.11-09.53.44:283][903]BlueprintLog: New page: Compile door
+[2018.03.11-09.53.46:306][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-09.53.46:412][938]LogSavePackage: Save=94.45ms
+[2018.03.11-09.53.46:412][938]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/door04AEE96D44830DADF5D96CB9780AE43C.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-09.53.46:419][938]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-09.53.48:768][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.53.48:805][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-09.53.48:805][ 13]PIE: New page: PIE session: room (Mar 11, 2018, 3:53:48 PM)
+[2018.03.11-09.53.48:805][ 13]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.53.48:826][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020059s)
+[2018.03.11-09.53.48:826][ 13]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.53.48:827][ 13]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2018.03.11-09.53.48:827][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.021687s)
+[2018.03.11-09.53.48:873][ 13]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.53.48:892][ 13]LogInit: FAudioDevice initialized.
+[2018.03.11-09.53.48:928][ 13]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.53.48:930][ 13]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.53.48
+[2018.03.11-09.53.48:931][ 13]LogWorld: Bringing up level for play took: 0.002300
+[2018.03.11-09.53.48:934][ 13]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 0.078
+[2018.03.11-09.53.49:750][ 39]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.901 Z=-0.000
+[2018.03.11-09.53.49:750][ 39]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.53.49:864][ 43]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.53.49:864][ 43]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.53.58:509][351]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.53.58:537][351]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.53.58:844][351]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.11-09.53.58:845][351]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.53.58:853][351]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.03.11-12.53.58
+[2018.03.11-09.53.58:854][351]LogWorld: Bringing up level for play took: 0.008120
+[2018.03.11-09.53.58:854][351]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.11-09.53.58:855][351]LogLoad: Took 0.318114 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2018.03.11-09.54.08:759][636]BlueprintLog: New page: Compile door
+[2018.03.11-09.54.10:116][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-09.54.10:226][652]LogSavePackage: Save=97.77ms
+[2018.03.11-09.54.10:226][652]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/doorDD55F44D41A2EC3CF627BCB07D7DE0F9.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-09.54.10:232][652]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-09.54.12:198][715]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.54.12:241][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-09.54.12:242][715]PIE: New page: PIE session: room (Mar 11, 2018, 3:54:12 PM)
+[2018.03.11-09.54.12:242][715]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.54.12:258][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015706s)
+[2018.03.11-09.54.12:259][715]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.54.12:260][715]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2018.03.11-09.54.12:260][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.017501s)
+[2018.03.11-09.54.12:307][715]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.54.12:326][715]LogInit: FAudioDevice initialized.
+[2018.03.11-09.54.12:360][715]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.54.12:362][715]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.54.12
+[2018.03.11-09.54.12:363][715]LogWorld: Bringing up level for play took: 0.002187
+[2018.03.11-09.54.12:366][715]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room -0.49
+[2018.03.11-09.54.13:199][741]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.900 Z=-0.000
+[2018.03.11-09.54.13:199][741]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.54.13:315][745]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.54.13:315][745]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.54.20:916][ 18]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.54.20:944][ 18]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.54.21:240][ 18]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.11-09.54.21:240][ 18]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.54.21:249][ 18]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.03.11-12.54.21
+[2018.03.11-09.54.21:249][ 18]LogWorld: Bringing up level for play took: 0.008606
+[2018.03.11-09.54.21:250][ 18]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.11-09.54.21:251][ 18]LogLoad: Took 0.307303 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2018.03.11-09.54.34:466][408]BlueprintLog: New page: Compile door
+[2018.03.11-09.54.35:757][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/door" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset" SILENT=true
+[2018.03.11-09.54.35:865][422]LogSavePackage: Save=96.95ms
+[2018.03.11-09.54.35:865][422]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/door961DB2CB4AD2F623251966A07F5A6BAB.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset'
+[2018.03.11-09.54.35:871][422]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/door.uasset
+[2018.03.11-09.54.37:807][480]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.11-09.54.37:854][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-09.54.37:854][480]PIE: New page: PIE session: room (Mar 11, 2018, 3:54:37 PM)
+[2018.03.11-09.54.37:854][480]LogPlayLevel: Creating play world package: /Game/Cockroaches/UEDPIE_0_room
+[2018.03.11-09.54.37:871][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017467s)
+[2018.03.11-09.54.37:872][480]LogAIModule: Creating AISystem for world room
+[2018.03.11-09.54.37:873][480]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2018.03.11-09.54.37:873][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cockroaches/room.room to /Game/Cockroaches/UEDPIE_0_room.room (0.019451s)
+[2018.03.11-09.54.37:916][480]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.11-09.54.37:931][480]LogInit: FAudioDevice initialized.
+[2018.03.11-09.54.37:974][480]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.54.37:978][480]LogWorld: Bringing World /Game/Cockroaches/UEDPIE_0_room.room up for play (max tick rate 60) at 2018.03.11-12.54.37
+[2018.03.11-09.54.37:979][480]LogWorld: Bringing up level for play took: 0.002227
+[2018.03.11-09.54.37:982][480]PIE: Play in editor start time for /Game/Cockroaches/UEDPIE_0_room 1.126
+[2018.03.11-09.54.38:784][506]LogBlueprintUserMessages: [bitl_686] X=-0.322 Y=0.902 Z=-0.000
+[2018.03.11-09.54.38:784][506]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.54.38:900][510]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.54.38:900][510]LogBlueprintUserMessages: [bitl_686] X=-0.336 Y=0.942 Z=-0.000
+[2018.03.11-09.54.44:100][697]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.54.44:125][697]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.11-09.54.44:449][697]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.11-09.54.44:450][697]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.11-09.54.44:459][697]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.03.11-12.54.44
+[2018.03.11-09.54.44:459][697]LogWorld: Bringing up level for play took: 0.008278
+[2018.03.11-09.54.44:459][697]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.11-09.54.44:460][697]LogLoad: Took 0.335150 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2018.03.11-09.54.50:558][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cockroaches/room" FILE="../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.11-09.54.50:717][932]LogSavePackage: Save=100.72ms
+[2018.03.11-09.54.50:717][932]LogSavePackage: Moving '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Saved/room0F2800C14A6E0D87A89EC5B4FF48991A.tmp' to '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap'
+[2018.03.11-09.54.50:724][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/Cockroaches/room.umap
+[2018.03.11-09.54.53:727][  9]Cmd: QUIT_EDITOR
+[2018.03.11-09.54.55:024][  9]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.11-09.54.55:117][  9]LogExit: Preparing to exit.
+[2018.03.11-09.54.56:029][  9]LogDirectoryWatcher: A directory notification for 'C:/Users/Анжелика/Documents/Game/MyProject2/Project/Content/' was aborted.
+[2018.03.11-09.54.56:540][  9]LogExit: Editor shut down
+[2018.03.11-09.54.56:553][  9]LogExit: Transaction tracking system shut down
+[2018.03.11-09.54.57:374][  9]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.11-09.54.57:374][  9]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Анжелика/Documents/Game/MyProject2/Project/Content/' was aborted.
+[2018.03.11-09.54.57:374][  9]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.11-09.54.57:375][  9]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.11-09.54.57:375][  9]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.11-09.54.57:375][  9]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.11-09.54.57:375][  9]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.11-09.54.59:072][  9]LogExit: Object subsystem successfully closed.
+[2018.03.11-09.54.59:348][  9]LogD3D11RHI: Shutdown
+[2018.03.11-09.54.59:349][  9]LogD3D11RHI: CleanupD3DDevice
+[2018.03.11-09.54.59:548][  9]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.11-09.55.00:844][  9]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (558)
+[2018.03.11-09.55.00:844][  9]LogModuleManager: Shutting down and abandoning module MaterialEditor (556)
+[2018.03.11-09.55.00:844][  9]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (554)
+[2018.03.11-09.55.00:844][  9]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.03.11-09.55.00:844][  9]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.03.11-09.55.00:844][  9]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.03.11-09.55.00:844][  9]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.03.11-09.55.00:844][  9]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.03.11-09.55.00:873][  9]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.11-09.55.01:157][  9]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.03.11-09.55.01:158][  9]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.03.11-09.55.01:158][  9]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.03.11-09.55.01:160][  9]LogDirectoryWatcher: A directory notification for 'C:/Users/Анжелика/Documents/Game/MyProject2/Project/Content/Collections/' was aborted.
+[2018.03.11-09.55.01:160][  9]LogDirectoryWatcher: A directory notification for 'C:/Users/Анжелика/Documents/Game/MyProject2/Project/Content/Developers/Анжелика/Collections/' was aborted.
+[2018.03.11-09.55.01:160][  9]LogDirectoryWatcher: A directory notification for 'C:/Users/Анжелика/Documents/Game/MyProject2/Project/Saved/Collections/' was aborted.
+[2018.03.11-09.55.01:161][  9]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.03.11-09.55.01:194][  9]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.11-09.55.01:194][  9]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.11-09.55.01:238][  9]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.11-09.55.01:239][  9]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.11-09.55.01:239][  9]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.11-09.55.01:239][  9]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.11-09.55.01:240][  9]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.11-09.55.01:240][  9]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.11-09.55.01:240][  9]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.11-09.55.01:240][  9]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.11-09.55.01:240][  9]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.11-09.55.01:240][  9]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.11-09.55.01:241][  9]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.11-09.55.01:241][  9]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.11-09.55.01:275][  9]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.11-09.55.01:280][  9]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.11-09.55.01:280][  9]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.11-09.55.01:281][  9]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.11-09.55.01:281][  9]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.11-09.55.01:281][  9]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.11-09.55.01:281][  9]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.11-09.55.01:281][  9]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.11-09.55.01:281][  9]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.11-09.55.01:281][  9]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.11-09.55.01:281][  9]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.11-09.55.01:281][  9]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.11-09.55.01:282][  9]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.11-09.55.01:346][  9]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.11-09.55.01:347][  9]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.11-09.55.01:347][  9]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.11-09.55.01:347][  9]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.11-09.55.01:347][  9]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.11-09.55.02:797][  9]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.11-09.55.02:893][  9]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.11-09.55.02:944][  9]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.11-09.55.02:949][  9]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.11-09.55.03:010][  9]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.11-09.55.03:010][  9]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.11-09.55.03:010][  9]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.11-09.55.03:011][  9]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.11-09.55.03:447][  9]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.11-09.55.03:447][  9]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.11-09.55.03:447][  9]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.11-09.55.03:447][  9]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.11-09.55.03:557][  9]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.11-09.55.03:573][  9]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.11-09.55.03:574][  9]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.11-09.55.03:587][  9]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.11-09.55.03:619][  9]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.11-09.55.03:664][  9]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.11-09.55.03:666][  9]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.11-09.55.03:666][  9]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.11-09.55.03:666][  9]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.11-09.55.03:667][  9]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.11-09.55.03:695][  9]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.11-09.55.03:695][  9]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.11-09.55.03:697][  9]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.11-09.55.03:699][  9]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.11-09.55.03:699][  9]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.11-09.55.03:719][  9]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.11-09.55.03:811][  9]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.11-09.55.03:823][  9]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.11-09.55.03:825][  9]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.11-09.55.03:826][  9]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.11-09.55.03:973][  9]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.11-09.55.03:974][  9]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.11-09.55.04:065][  9]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.11-09.55.04:090][  9]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.11-09.55.04:552][  9]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.11-09.55.04:552][  9]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.11-09.55.04:553][  9]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.11-09.55.05:375][  9]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.11-09.55.05:375][  9]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.11-09.55.05:375][  9]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.11-09.55.05:401][  9]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.11-09.55.05:403][  9]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.11-09.55.05:403][  9]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.11-09.55.05:412][  9]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.11-09.55.05:419][  9]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.11-09.55.05:482][  9]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.11-09.55.05:490][  9]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.11-09.55.05:492][  9]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.11-09.55.05:492][  9]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.11-09.55.05:492][  9]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.11-09.55.05:493][  9]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.11-09.55.05:493][  9]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.11-09.55.05:493][  9]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.11-09.55.05:493][  9]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.11-09.55.05:493][  9]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.11-09.55.05:493][  9]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.11-09.55.05:494][  9]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.11-09.55.05:494][  9]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.11-09.55.05:503][  9]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.11-09.55.05:503][  9]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.11-09.55.05:703][  9]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.11-09.55.05:711][  9]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.11-09.55.05:711][  9]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.11-09.55.05:711][  9]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.11-09.55.05:747][  9]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.11-09.55.05:760][  9]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.11-09.55.05:760][  9]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.11-09.55.05:760][  9]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.11-09.55.05:760][  9]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.11-09.55.05:761][  9]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.11-09.55.05:761][  9]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.11-09.55.05:761][  9]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.11-09.55.05:761][  9]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.11-09.55.05:761][  9]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.11-09.55.05:761][  9]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.11-09.55.05:761][  9]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.11-09.55.05:773][  9]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.11-09.55.05:773][  9]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.11-09.55.05:773][  9]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.11-09.55.05:773][  9]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.11-09.55.05:773][  9]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.11-09.55.05:777][  9]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.11-09.55.05:829][  9]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.11-09.55.05:829][  9]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.11-09.55.05:829][  9]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.11-09.55.05:829][  9]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.11-09.55.05:842][  9]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.11-09.55.05:846][  9]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.11-09.55.05:847][  9]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.11-09.55.05:850][  9]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.11-09.55.05:850][  9]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.11-09.55.05:850][  9]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.11-09.55.05:850][  9]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.11-09.55.05:882][  9]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.11-09.55.05:885][  9]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.11-09.55.05:888][  9]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.11-09.55.05:889][  9]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.11-09.55.05:889][  9]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.11-09.55.05:985][  9]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.11-09.55.05:985][  9]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.11-09.55.05:986][  9]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.11-09.55.05:986][  9]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.11-09.55.05:986][  9]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.11-09.55.05:986][  9]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.11-09.55.05:986][  9]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.11-09.55.06:032][  9]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.11-09.55.06:133][  9]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.11-09.55.06:233][  9]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.11-09.55.06:267][  9]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.11-09.55.06:268][  9]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.11-09.55.06:268][  9]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.11-09.55.06:275][  9]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.11-09.55.06:276][  9]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.11-09.55.06:317][  9]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.11-09.55.06:317][  9]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.11-09.55.06:318][  9]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.11-09.55.06:367][  9]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.11-09.55.06:417][  9]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.11-09.55.06:418][  9]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.11-09.55.06:418][  9]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.11-09.55.06:418][  9]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.11-09.55.06:438][  9]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.11-09.55.06:438][  9]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.11-09.55.06:445][  9]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.11-09.55.06:445][  9]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.11-09.55.06:445][  9]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.11-09.55.06:457][  9]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.11-09.55.06:475][  9]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.11-09.55.06:475][  9]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.11-09.55.06:553][  9]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.11-09.55.06:553][  9]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.11-09.55.06:581][  9]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.11-09.55.06:581][  9]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.11-09.55.06:581][  9]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.11-09.55.06:646][  9]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.11-09.55.06:746][  9]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.11-09.55.06:746][  9]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.11-09.55.06:805][  9]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.11-09.55.06:805][  9]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.11-09.55.06:840][  9]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.11-09.55.06:841][  9]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.11-09.55.06:841][  9]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.11-09.55.06:841][  9]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.11-09.55.06:842][  9]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.11-09.55.06:842][  9]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.11-09.55.06:842][  9]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.11-09.55.06:842][  9]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.11-09.55.06:990][  9]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.11-09.55.06:990][  9]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.11-09.55.06:990][  9]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.11-09.55.06:990][  9]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.11-09.55.06:990][  9]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.11-09.55.07:014][  9]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.11-09.55.07:016][  9]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.11-09.55.07:026][  9]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.11-09.55.07:028][  9]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.11-09.55.07:083][  9]LogDerivedDataCache: Shutdown
+[2018.03.11-09.55.07:083][  9]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.11-09.55.07:083][  9]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.11-09.55.07:094][  9]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.11-09.55.07:127][  9]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.11-09.55.07:128][  9]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.11-09.55.07:128][  9]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.11-09.55.07:176][  9]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.11-09.55.07:199][  9]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.11-09.55.07:199][  9]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.11-09.55.07:200][  9]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.11-09.55.07:244][  9]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.11-09.55.07:244][  9]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.11-09.55.07:244][  9]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.11-09.55.07:244][  9]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.11-09.55.07:244][  9]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.11-09.55.07:244][  9]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.11-09.55.07:244][  9]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.11-09.55.07:245][  9]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.11-09.55.07:245][  9]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.11-09.55.07:255][  9]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.11-09.55.07:255][  9]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.11-09.55.07:256][  9]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.11-09.55.07:258][  9]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.11-09.55.07:258][  9]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.11-09.55.07:258][  9]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.11-09.55.07:258][  9]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.11-09.55.07:302][  9]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.11-09.55.07:303][  9]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.11-09.55.07:303][  9]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.11-09.55.07:303][  9]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.11-09.55.07:303][  9]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.11-09.55.07:303][  9]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.11-09.55.07:303][  9]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.11-09.55.07:303][  9]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.11-09.55.07:304][  9]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.11-09.55.07:348][  9]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.11-09.55.07:348][  9]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.11-09.55.07:349][  9]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.11-09.55.07:349][  9]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.11-09.55.07:349][  9]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.11-09.55.07:349][  9]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.11-09.55.07:349][  9]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.11-09.55.07:349][  9]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.11-09.55.07:349][  9]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.11-09.55.07:349][  9]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.11-09.55.07:350][  9]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.11-09.55.07:350][  9]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.11-09.55.07:351][  9]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.11-09.55.07:351][  9]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.11-09.55.07:351][  9]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.11-09.55.07:351][  9]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.11-09.55.07:391][  9]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.11-09.55.07:420][  9]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.11-09.55.07:420][  9]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.11-09.55.07:480][  9]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2D5E5C0-455E-6CDF-00EB-79A815B5FC22%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=d0bb66964b85bd1309a56f9b5bdaa027%7Ca6e35e261d434ecb8d4f843755309385%7Cbd7414ad-3fa9-4c09-818d-e339c2a058b0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.11-09.55.07:492][  9]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.11-09.55.07:577][  9]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.11-09.55.07:582][  9]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.11-09.55.07:587][  9]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.11-09.55.07:587][  9]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.11-09.55.07:802][  9]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.11-09.55.07:802][  9]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.11-09.55.07:802][  9]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.11-09.55.07:826][  9]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.11-09.55.08:016][  9]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.11-09.55.08:017][  9]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.11-09.55.08:098][  9]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.11-09.55.08:098][  9]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.11-09.55.08:098][  9]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.11-09.55.08:098][  9]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.11-09.55.08:098][  9]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.11-09.55.08:098][  9]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.11-09.55.08:098][  9]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.11-09.55.08:098][  9]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.11-09.55.08:119][  9]LogExit: Exiting.
+[2018.03.11-09.55.08:190][  9]Log file closed, 03/11/18 12:55:08
