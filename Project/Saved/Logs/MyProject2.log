@@ -14,6 +14,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 03/23/18 16:22:09
 =======
 <<<<<<< HEAD
@@ -97,6 +98,9 @@
 =======
 ﻿Log file open, 03/18/18 17:55:38
 >>>>>>> parent of 00d629f... Changes
+=======
+﻿Log file open, 03/18/18 17:55:38
+>>>>>>> parent of 00d629f... Changes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -107,6 +111,7 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: MyProject2
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -206,10 +211,14 @@ LogInit: Display: RandInit(-1248685487) SRandInit(-1248685486).
 =======
 LogInit: Display: RandInit(-1248685487) SRandInit(-1248685486).
 >>>>>>> parent of 00d629f... Changes
+=======
+LogInit: Display: RandInit(-1248685487) SRandInit(-1248685486).
+>>>>>>> parent of 00d629f... Changes
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -306,6 +315,9 @@ LogStats: Stats thread started at 0.206844
 >>>>>>> parent of 3765e3d... Обновленная_версия
 =======
 >>>>>>> parent of 3765e3d... Обновленная_версия
+=======
+LogStats: Stats thread started at 0.206844
+>>>>>>> parent of 00d629f... Changes
 =======
 LogStats: Stats thread started at 0.206844
 >>>>>>> parent of 00d629f... Changes
@@ -490,6 +502,7 @@ LogInit: Base directory: D:/UE/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14929,6 +14942,8 @@ LogInit: Object subsystem initialized
 =======
 =======
 >>>>>>> parent of 00d629f... Changes
+=======
+>>>>>>> parent of 00d629f... Changes
 [2018.03.18-14.55.40:832][  0]LogInit: Selected Device Profile: [Windows]
 [2018.03.18-14.55.40:832][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.03.18-14.55.40:906][  0]LogInit: Computer: DESKTOP-54LR6J1
@@ -15411,6 +15426,7 @@ LogInit: Object subsystem initialized
 [2018.03.18-21.41.43:558][768]LogExit: Exiting.
 [2018.03.18-21.41.43:592][768]Log file closed, 03/19/18 00:41:43
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 00d629f... Changes
 =======
 >>>>>>> parent of 3765e3d... Обновленная_версия
@@ -15420,5 +15436,7 @@ LogInit: Object subsystem initialized
 >>>>>>> parent of 3765e3d... Обновленная_версия
 =======
 >>>>>>> parent of 3765e3d... Обновленная_версия
+=======
+>>>>>>> parent of 00d629f... Changes
 =======
 >>>>>>> parent of 00d629f... Changes
